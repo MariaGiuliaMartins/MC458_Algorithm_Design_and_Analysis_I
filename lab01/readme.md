@@ -9,7 +9,8 @@ Seja x1, x2, ..., xn uma sequência de números reais (não necessariamente posi
 
 ## Entrada
 A entrada consiste em 2 linhas. A primeira linha contém um inteiro positivo n, o tamanho da sequência de números reais. A segunda linha contém n números reais, os elementos xi da sequência.
-Saída
+
+## Saída
 
 Como saída o seu programa deverá imprimir o valor do produto da subsequência consecutiva máxima, com 6 casas decimais.
 
