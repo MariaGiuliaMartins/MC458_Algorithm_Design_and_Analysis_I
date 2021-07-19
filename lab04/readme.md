@@ -31,6 +31,7 @@ Entrada
 Saída
 
 `21`
+
 `1 2 3`
 
 Neste exemplo, temos 3 tarefas, a1, a2 e a3, com p1 = 3, p2 = 4 e p3 = 4.
@@ -48,6 +49,7 @@ Entrada
 Saída
 
 `75`
+
 `3 1 2 5 4`
 
 Neste exemplo, temos 5 tarefas, a1, a2, a3, a4 e a5, com p1 = 5, p2 = 5, p3 = 4, p4 = 8 e p5 = 6.
